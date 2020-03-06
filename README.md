@@ -1,6 +1,9 @@
 # git-group-practice
 Project Practice
 
+<<<<<<< HEAD
+likuna was here
+=======
 10 Surprisingly Chill Facts About Sloths
 
 They swing from trees, they sleep a lot, and they have adorable fuzzy faces. No, we’re not talking about Koalas, but sloths!
@@ -14,3 +17,7 @@ There are 6 species of sloths across two different families – the two-toed and
 What is it about sloths that took the internet by storm to the point that millennial’s started referring to them as their “Spirit Animals” though?
 
 Let’s take a look at some of the more interesting facts about them!
+>>>>>>> 18745c5db69e7a47561da9caf4ebb7cb32bbadc9
+
+
+##likuna was here
