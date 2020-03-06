@@ -2,6 +2,7 @@
 Project Practice
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -10,8 +11,11 @@ Project Practice
 
 
 
-# Hello World
+# Hello World!!
 
+=======
+likuna was here
+>>>>>>> f945ad2c8e4e757d2c3c816ea9285d75d860e827
 =======
 10 Surprisingly Chill Facts About Sloths
 
@@ -27,3 +31,9 @@ What is it about sloths that took the internet by storm to the point that millen
 
 Let’s take a look at some of the more interesting facts about them!
 >>>>>>> 18745c5db69e7a47561da9caf4ebb7cb32bbadc9
+<<<<<<< HEAD
+=======
+
+
+##likuna was here
+>>>>>>> f945ad2c8e4e757d2c3c816ea9285d75d860e827
